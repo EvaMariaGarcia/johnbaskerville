@@ -1,4 +1,4 @@
 history-of-type
 ===============
 
-- [Version 1](evamariagarcia.github.io/history-of-type/johnbaskerville.html)
+- [Version 1](http://evamariagarcia.github.io/history-of-type/johnbaskerville.html)
