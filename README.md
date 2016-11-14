@@ -8,3 +8,5 @@ history-of-type
 - [Version 3](http://evamariagarcia.github.io/history-of-type/johnbaskerville3.html) - Adding links
 
 - [Version 4](http://evamariagarcia.github.io/history-of-type/johnbaskerville4.html) - Adding Table
+
+- [Version 4](http://evamariagarcia.github.io/history-of-type/johnbaskerville5.html) - Adding Pictures 
