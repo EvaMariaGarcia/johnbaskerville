@@ -9,4 +9,4 @@ history-of-type
 
 - [Version 4](http://evamariagarcia.github.io/history-of-type/johnbaskerville4.html) - Adding Table
 
-- [Version 4](http://evamariagarcia.github.io/history-of-type/johnbaskerville5.html) - Adding Pictures 
+- [Version 5](http://evamariagarcia.github.io/history-of-type/johnbaskerville5.html) - Adding Pictures 
