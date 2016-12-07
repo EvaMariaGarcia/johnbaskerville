@@ -8,12 +8,12 @@
 
 body{
   width: 75%;
-  max-width: 700px;
-  font-family: georgia, times, serif;
+  max-width: 760px;
+  font-family: 'Libre Baskerville', serif;
   margin: auto;
   background-color: #f0f0f0;
   color: #333;
-  line-height: 1.8;
+  line-height: 1.8em;
 }
 /* --typography-- */
 h1, h2, h3 {
@@ -21,8 +21,8 @@ h1, h2, h3 {
   color: #c06;
   text-align: center;}
 
-p, li {margin-bottom: 2em;
-  margin-top: 2em;
+p, li {margin-bottom: 1em;
+  margin-top: 1em;
 line-height: 1.5em;}
 
 h1{font-size: 4em;
@@ -38,7 +38,7 @@ font-style: italic;
 font-size: 1.8em;
 color: #333; }
 
-hgroup {margin-bottom: 3em;}
+hgroup {margin-bottom: 2em;}
 
 .intro{font-size: 1.253,;
 line-height: 1.5em;}
@@ -67,7 +67,7 @@ text-decoration: none;}
 a:hover {color: #006341;
 border-bottom: 1px dotted; }
 /* --nav-- */
-nav {padding: 1em 0;
+nav {padding: 0.10em 0;
 border-top: 1px solid #333;
 border-bottom: 1px solid #333;
 margin-bottom: 4em
@@ -88,9 +88,33 @@ padding: 0;
 max-width: 100%;
 }
 /* --table-- */
-table {margin: auto;}
+table {margin: auto;
+width; 100%;
+display: table;
+border-collapse: collapse;
+border-spacing: 2px;
+}
+
+caption {
+  margin-bottom: 1.5em;
+  text-transform: uppercase;
+}
+
+th{
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #c06;
+
+}
+th, td {padding: .6em;}
+
+table, td { background: rgba(0,0,0,.1);
+border: 1px solid #fff;}
+
 /*--footer--*/
-footer ul {padding: .5em 0;
+footer ul {padding: .10em 0;
 border-top:  1px solid #333;
 border-bottom: 1px solid #333;
 margin-bottom: 4em;text-align: center;
@@ -101,3 +125,22 @@ footer ul li{
   display: inline-block;line;
   margin: 20px;
 }
+
+/*--tablet--*/
+@media (max-width: 50em) {
+  body{
+    background-color: aqua;
+    width: 85%;}
+
+    article { width: 95%;
+    padding: 0.5em;}
+
+  }
+  /*--smartphone--*/
+  @media (max-width: 35em) {
+    body{
+      background-color: yellow;
+    margin: auto 0;
+    width: 100%;
+  font-size: }
+  }
