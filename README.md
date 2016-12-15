@@ -1,6 +1,8 @@
 John Baskerville
 ===============
 
+PART 01 – HTML
+==============
 31st October 2016
 -----------------
 - [Version 1](http://evamariagarcia.github.io/johnbaskerville/johnbaskerville.html) - Marked up plain text as html
@@ -17,4 +19,8 @@ John Baskerville
 
 - [Version 5](http://evamariagarcia.github.io/johnbaskerville/johnbaskerville5.html) - Adding Pictures
 
+PART 02 CSS
+===========
+28th November 2016
+-----------------
 - [Version 6](http://evamariagarcia.github.io/johnbaskerville/johnbaskerville6.html) - Adding CSS  
