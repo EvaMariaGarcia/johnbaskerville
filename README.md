@@ -24,6 +24,7 @@ PART 02 CSS
 28th November 2016
 -----------------
 - [Version 6](http://evamariagarcia.github.io/johnbaskerville/johnbaskerville6.html) - Adding CSS  
+
 12th December 2016
 ------------------
 - [John Baskerville CSS Exercise](http://evamariagarcia.github.io/johnbaskerville/johnbaskerville.html)
